@@ -147,7 +147,9 @@ hr{
 
 @media only screen and (max-width: 600px){
     main{
-        width: 80vw;}
+        width: 80vw;
+        height: 135vh;
+        }
     .container-opcoes{
         height: 200px;
     }
@@ -193,6 +195,16 @@ hr{
 }
 .container-icons{
     margin-bottom: 0px;
+}
+.container-login > p{
+    font-size: 10px;
+    color: rgb(51, 51, 51);
+    margin-top: 10px;
+
+}
+#titulo-c{
+    margin-bottom: 25px;
+    font-size: 26px;
 }
 
 }
